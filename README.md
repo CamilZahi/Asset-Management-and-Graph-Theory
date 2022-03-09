@@ -1,2 +1,2 @@
-# Asset-Management-and-Graph-Theory-SAS-
-Modeling of CAC40 assets to analyze the contagion effect via contagion effect via cross-correlations, then using graph theory to map the dynamic interactions between financial actors.
+Asset Management and Graph Theory [SAS] : Statistics & Financial Analytics
+Mesure de clustering dynamique sur les actifs du CAC40 puis allocation de portefeuille avec les actifs les moins systémiques pour battre le marché à risque moindre.
